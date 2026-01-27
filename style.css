@@ -153,9 +153,9 @@ input {
 .box {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     gap: 10px;
-    height: 200px;
+    height: 250px;
     border-radius: 10px;
     background: linear-gradient(149deg, #192247 0%, #210e17 99%);
     padding: 20px;
